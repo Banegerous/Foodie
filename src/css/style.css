@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
+
+.main-bg {
+  background-color: #e4e4e4!important;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+}
